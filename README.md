@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+🚀 Estoy trabajando en<br>Un sistema de ventas en Java muy sencillo, con interfaz e integración de bases de datos SQL.<br>Desarrollo de aplicaciones web simples utilizando HTML, CSS<br>🔍 Busco colaborar en<br>En un futuro estaría interesado en unirme a proyectos de desarrollo web o sistemas que impliquen bases de datos una vez adquiera una base solida. <br>🤝 Estoy buscando ayuda con<br>Actualmente, no estoy buscando ayuda en este momento.<br>🌱 Actualmente estoy aprendiendo<br>SQL (me gustaría profundizar más en este lenguaje).<br>Java, HTML, CSS.<br>Me estoy introduciendo en Git para mejorar mi flujo de trabajo.<br>⚡ Curiosidad<br>La frase que más me han recordado durante mi aprendizaje: "A programar se aprende programando".
 
-<!--
-**PabloJGV/PabloJGV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PabloJGV&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PabloJGV&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloJGV&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=PabloJGV&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
